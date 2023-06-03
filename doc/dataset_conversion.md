@@ -32,7 +32,7 @@ Start by creating a folder `datasets`.
     python3 process_breast.py
     ```
 
-**Note:** Since the original dataset was relatively small, I have manually identified the images that contained annotations on the position of the cancer. This images were collected in the `delete_benign.csv` and `delete_malignant.csv` files, in order to be removed from the final dataset.
+**Note:** Since the original dataset was relatively small, the images that contained annotations on the position of the cancer were manually identified and collected in the `delete_benign.csv` and `delete_malignant.csv` files, in order to be removed from the final dataset.
 
 **Examples:**
 
